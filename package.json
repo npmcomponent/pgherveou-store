@@ -1,14 +1,11 @@
 {
-  "name": "store",
+  "name": "pgherveou-store",
+  "description": "localstorage component",
   "version": "0.0.6",
-  "description": "localstorage component for the browser",
-
-  "devDependencies": {
-    "grunt": "*",
-    "grunt-shell": "*",
-    "grunt-contrib-jshint": "*",
-    "grunt-contrib-watch": "*",
-    "grunt-contrib-connect": "*",
-    "grunt-contrib-clean": "*"
-  }
+  "keywords": [
+    "localStorage"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
 }
